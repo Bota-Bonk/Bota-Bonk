@@ -12,10 +12,10 @@ author: Pin-Yen Huang
     <img src="/public/images/full_logo.png" alt="Logo" width="640">
   </a>
 
-  <h3 align="center">Showlit – A Modern and Clean Personal Website Template</h3>
+  <h3 align="center">Bota Bonk's Art Portfolio!</h3>
 
   <p align="center">
-    Bota Bonk's Art Portfolio!  <br>
+    My art portfolio  <br>
     This portfolio contains my resume and photos of both physical and digital artworks.
     <br />
     <br />
