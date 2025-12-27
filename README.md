@@ -19,7 +19,7 @@ author: Pin-Yen Huang
     This portfolio contains my resume and photos of both physical and digital artworks.
     <br />
     <br />
-    <a href="[https://pm25.github.io/showlit](https://bota-bonk.github.io/Bota-Bonk/)">🌐 Link Here</a>
+    <a href="https://pm25.github.io/showlit](https://bota-bonk.github.io/Bota-Bonk/">🌐 Link Here</a>
     ·
   </p>
 </div>
