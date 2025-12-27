@@ -9,7 +9,7 @@ author: Pin-Yen Huang
 <br />
 <div align="center">
   <a href="https://github.com/pm25/showlit">
-    <img src="/public/images/full_logo.png" alt="Logo" width="640">
+    <img src="public/images/Swave.jpg" alt="Logo" width="640">
   </a>
 
   <h3 align="center">Bota Bonk's Art Portfolio!</h3>
